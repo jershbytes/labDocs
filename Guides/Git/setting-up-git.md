@@ -1,9 +1,9 @@
 ---
-title: setting-up-git
-description: 
+title: Time 2 Git Gud
+description: A Gudde on how to setup git.
 published: true
-date: 2024-11-20T18:41:18.597Z
-tags: 
+date: 2024-11-20T19:01:22.465Z
+tags: windows, linux, git, code, version-control
 editor: markdown
 dateCreated: 2024-11-20T18:06:00.901Z
 ---

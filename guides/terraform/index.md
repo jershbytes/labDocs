@@ -2,14 +2,14 @@
 title: Github As Code
 description: Using Terraform with Github.
 published: true
-date: 2024-11-20T19:22:49.242Z
+date: 2024-11-20T19:23:16.962Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T19:22:22.121Z
 ---
 
 <div align="center">
-    <h1> <img src ="https://github.com/JershBytes/homepage/blob/main/images/dracula_icons/terraform.png?raw=true" alt="git logo" style="width:20%;height:20%"> </h1>
+    <h1> <img src ="https://github.com/JershBytes/homepage/blob/main/images/dracula_icons/terraform.png" alt="terraform logo" style="width:20%;height:20%"> </h1>
     <caption> Github As Code </caption>
 </div>
 

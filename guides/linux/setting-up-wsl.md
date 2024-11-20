@@ -2,7 +2,7 @@
 title: Setting Up WSL
 description: Setting up a Linux dev environment in Windows.
 published: true
-date: 2024-11-20T19:45:57.086Z
+date: 2024-11-20T19:47:39.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T19:40:56.845Z
@@ -65,16 +65,17 @@ wsl --install -d Ubuntu-24.04
 user: devops
 pass: somdevops
 ```
-!!! note
-    User and Pass do not need to be that this is just an example of when it asks you.
+
+> User and Pass do not need to be that this is just an example of when it asks you.
+{.is-info}
 
 
 ## Configuration of Ubuntu
 
 After You're dropped into Ubuntu. We're going to do some tweaks to the Quality of life and make WSL a little more fun.
 
-!!! note
-    These next steps should be performed as root. That can be achieved by using the command below.
+> These next steps should be performed as root. That can be achieved by using the command below.
+{.is-info}
 
 
 ```bash

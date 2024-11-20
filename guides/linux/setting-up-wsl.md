@@ -1,3 +1,13 @@
+---
+title: Setting Up WSL
+description: Setting up a Linux dev environment in Windows.
+published: true
+date: 2024-11-20T19:45:57.086Z
+tags: 
+editor: markdown
+dateCreated: 2024-11-20T19:40:56.845Z
+---
+
 <div align="center">
     <h1> <img src ="./images/windows-linux-dev-env.png" alt="wsl logo" style="width:50%;height:50%"> </h1>
 </div>

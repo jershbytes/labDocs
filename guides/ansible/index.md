@@ -10,7 +10,7 @@ dateCreated: 2024-11-20T18:06:00.901Z
 
 <div align="center">
     <h1> <img src ="https://github.com/ansible/logos/raw/main/vscode-ansible-logo/vscode-ansible.png" alt="ansible logo" style="width:20%;height:20%"> </h1>
-    <caption> Time to Git Gud </caption>
+    <caption> Ez Deployment of Ansible </caption>
 </div>
 
 ## Intro

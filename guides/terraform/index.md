@@ -2,7 +2,7 @@
 title: Github As Code
 description: Using Terraform with Github.
 published: true
-date: 2024-11-20T19:23:16.962Z
+date: 2024-11-20T19:25:38.982Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T19:22:22.121Z
@@ -170,6 +170,5 @@ After this is all done check your GitHub to see if the new repo is there. If it'
 With all this being said I hope you had fun doing this. I know it was something cool for me to learn. Till next time ladies and gents.
 
 
-- **If you don't have a PAT token for github and don't know how to set it up. Check out the video below.**
+- **If you don't have a PAT token for github and don't know how to set it up. Check out the video [here](https://www.youtube.com/embed/IuiH6cBtc58?si=q7n5ws0Y_MBETm5Z) .**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IuiH6cBtc58?si=q7n5ws0Y_MBETm5Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

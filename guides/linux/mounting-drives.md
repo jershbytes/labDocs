@@ -1,3 +1,13 @@
+---
+title: Mounting Remote Drives
+description: Using NFS to mount remote Storage.
+published: true
+date: 2024-11-20T19:49:38.138Z
+tags: 
+editor: markdown
+dateCreated: 2024-11-20T19:40:48.333Z
+---
+
 <div align="center">
     <h1> <img src ="./images/tux.png" alt="tux the penguin logo" style="width:20%;height:20%"> </h1>
 </div>
@@ -67,9 +77,7 @@ After that is all done the mount should stay persistent even after reboots.
 
 ### Cockpit
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PGCBda3Le9Y?si=ccmR-BPg5JssM-1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-I've shared this video here found on YouTube to better show how it'd done. While it is old the only difference is instead of the `+` in storage there is a hamburger menu instead.
+I've shared this video here found on [YouTube](https://www.youtube.com/embed/PGCBda3Le9Y?si=ccmR-BPg5JssM-1Q) to better show how it'd done. While it is old the only difference is instead of the `+` in storage there is a hamburger menu instead.
 Epilogue
 With all that being said, this is how you can mount shares in Linux. I hope you learned something here, and make sure to come back for more tutorials.
 

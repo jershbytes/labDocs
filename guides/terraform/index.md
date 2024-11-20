@@ -1,11 +1,11 @@
 ---
-title: Github As Code.
+title: Github As Code
 description: Using Terraform with Github.
 published: true
-date: 2024-11-20T18:41:18.597Z
+date: 2024-11-20T19:22:49.242Z
 tags: 
 editor: markdown
-dateCreated: 2024-11-20T18:06:00.901Z
+dateCreated: 2024-11-20T19:22:22.121Z
 ---
 
 <div align="center">

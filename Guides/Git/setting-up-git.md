@@ -1,3 +1,13 @@
+---
+title: setting-up-git
+description: 
+published: true
+date: 2024-11-20T18:41:18.597Z
+tags: 
+editor: markdown
+dateCreated: 2024-11-20T18:06:00.901Z
+---
+
 <div align="center">
     <h1> <img src ="images/git.png" alt="git logo" style="width:20%;height:20%"> </h1>
     <h3> Time to Git Gud </h3>
@@ -83,8 +93,8 @@ Once that is done follow this [Guide](https://docs.github.com/en/authentication/
 ssh -T git@github.com
 ```
 
-!!! note 
-    Hi coloredbytes! You've successfully authenticated, but GitHub does not provide shell access.
+> Hi coloredbytes! You've successfully authenticated, but GitHub does not provide shell access.
+{.is-info}
 
 If configured correctly you should get some output like this. If so congrats git is configured and we can start doing some fun stuff.
 

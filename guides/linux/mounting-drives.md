@@ -2,7 +2,7 @@
 title: Mounting Remote Drives
 description: Using NFS to mount remote Storage.
 published: true
-date: 2024-11-20T19:49:38.138Z
+date: 2024-11-20T19:49:55.000Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-20T19:40:48.333Z
@@ -75,7 +75,7 @@ After that is done go ahead and run a `tail /etc/fstab` to make sure the line ha
 
 After that is all done the mount should stay persistent even after reboots.
 
-### Cockpit
+## Cockpit
 
 I've shared this video here found on [YouTube](https://www.youtube.com/embed/PGCBda3Le9Y?si=ccmR-BPg5JssM-1Q) to better show how it'd done. While it is old the only difference is instead of the `+` in storage there is a hamburger menu instead.
 Epilogue

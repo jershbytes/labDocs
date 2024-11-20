@@ -3,7 +3,7 @@ title: Github As Code
 description: Using Terraform with Github.
 published: true
 date: 2024-11-20T20:20:21.185Z
-tags: 
+tags: linux, window, code, automation, IaC,terraform,github
 editor: markdown
 dateCreated: 2024-11-20T19:22:22.121Z
 ---

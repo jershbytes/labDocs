@@ -22,12 +22,7 @@ We're going to use the docker approach here. As It's quick and easy and can be e
 
 ### Installing Docker
 
-You can follow the docs [here](https://docs.docker.com/engine/install/) to install docker. I also have a really nice script that I made that installs docker and also portainer if you like to manage docker with a GUI as well.
-
-```shell
-curl -ssL https://raw.githubusercontent.com/coloredbytes/ez-docker-installer/master/install.sh | bash
-```
-Once this step is all done we can get to the fun part of installing Semaphore
+You can follow the docs [here](https://docs.docker.com/engine/install/) to install docker.
 
 ### Installing Semaphore
 

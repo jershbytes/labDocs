@@ -3,7 +3,7 @@ title: Deploying Ansible Semaphore
 description: 
 published: true
 date: 2024-11-20T18:41:18.597Z
-tags: ansible,automation,linux,windows,code,IaC
+tags: ansible, automation, linux, windows, code, IaC
 editor: markdown
 dateCreated: 2024-11-20T18:06:00.901Z
 ---

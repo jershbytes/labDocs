@@ -9,7 +9,7 @@ dateCreated: 2024-11-20T18:06:00.901Z
 ---
 
 <div align="center">
-    <h1> <img src ="images/git.png" alt="git logo" style="width:20%;height:20%"> </h1>
+    <h1> <img src ="/img/git.png" alt="git logo" style="width:20%;height:20%"> </h1>
     <h3> Time to Git Gud </h3>
 </div>
 
@@ -42,11 +42,11 @@ This part can be weird at times but luckily for you, I have scripted this part.
 
 - Windows
 ```pwsh
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/JershBytes/homelab-docs/refs/heads/main/Git/scripts/git-config.ps1" -OutFile "git-config.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/JershBytes/jershlabs-docs/refs/heads/main/Git/scripts/git-config.ps1" -OutFile "git-config.ps1"
 ```
 - Linux (curl is os agnostic)
 ```shell
-curl -o git-config.sh "https://raw.githubusercontent.com/JershBytes/homelab-docs/refs/heads/main/Git/scripts/git-config.sh"
+curl -o git-config.sh "https://raw.githubusercontent.com/JershBytes/jershlabs-docs/refs/heads/main/Git/scripts/git-config.sh"
 ```
 
 Once you have the files down for the system you're running just run the scipt by doing a

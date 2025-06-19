@@ -3,13 +3,13 @@ title: Mounting Remote Drives
 description: Using NFS to mount remote Storage.
 published: true
 date: 2024-11-20T19:49:55.000Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2024-11-20T19:40:48.333Z
 ---
 
 <div align="center">
-    <h1> <img src ="./images/tux.png" alt="tux the penguin logo" style="width:20%;height:20%"> </h1>
+    <h1> <img src ="/img/tux.png" alt="tux the penguin logo" style="width:20%;height:20%"> </h1>
 </div>
 
 

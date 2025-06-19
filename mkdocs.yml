@@ -1,5 +1,5 @@
 site_name: JershLabs
-site_url: https://jershbytes.github.io/jershlabs-docs
+site_url: https://jershbytes.github.io/jershlabs-docs/
 theme:
   name: material
   features:

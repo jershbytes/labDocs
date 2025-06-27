@@ -15,12 +15,8 @@ theme:
   language: en
   palette:
     - scheme: slate  # enables dark theme
-      primary: pink  # magenta/pink as accent
-      accent: pink
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-
+      primary: black  # magenta/pink as accent
+      accent: green
 plugins:
   - social
   - search

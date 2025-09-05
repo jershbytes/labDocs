@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jershbytes.github.io/labDocs/index.html</loc>
+         <lastmod>2025-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jershbytes.github.io/labDocs/ansible/setting-up-semaphore.html</loc>
+         <lastmod>2025-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jershbytes.github.io/labDocs/git/setting-up-git.html</loc>
+         <lastmod>2025-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jershbytes.github.io/labDocs/linux/mounting-drives.html</loc>
+         <lastmod>2025-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jershbytes.github.io/labDocs/linux/setting-up-wsl.html</loc>
+         <lastmod>2025-09-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jershbytes.github.io/labDocs/terraform/setting-up-terraform.html</loc>
+         <lastmod>2025-09-05</lastmod>
+    </url>
+</urlset>

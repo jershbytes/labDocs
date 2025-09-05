@@ -1,5 +1,7 @@
 site_name: JershLabs
 site_url: http://rossjm.dev/labDocs/
+use_directory_urls: false
+
 theme:
   name: material
   features:

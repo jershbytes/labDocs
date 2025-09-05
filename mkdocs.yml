@@ -1,5 +1,5 @@
 site_name: JershLabs
-site_url: https://rossjm.dev/jershlabs-docs/
+site_url: http://rossjm.dev/jershlabs-docs/
 theme:
   name: material
   features:

@@ -18,4 +18,4 @@ The goal of this site is to offer clear, step-by-step guides and templates for v
 
 ## Request
 
-If there is something on here that you would like me to cover or something that you think I would enjoy learning. Let me know by submitting a [Discussion](https://github.com/JershBytes/homelab-docs/discussions/new?category=ideas).
+If there is something on here that you would like me to cover or something that you think I would enjoy learning. Let me know by submitting a [Discussion](https://github.com/jershbytes/labDocs/discussions/new?category=ideas).

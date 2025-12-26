@@ -30,4 +30,10 @@ toggle.name = "Switch to dark mode"
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to system preference"
+toggle.name = "Switch to light mode"
+
+[project.theme.icon]
+logo = "lucide/square-library"
+
+[project.theme]
+favicon = "images/homelab.png"

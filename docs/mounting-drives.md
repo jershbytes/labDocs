@@ -9,7 +9,7 @@ dateCreated: 2024-11-20T19:40:48.333Z
 ---
 
 <div align="center">
-    <h1> <img src ="/img/tux.png" alt="tux the penguin logo" style="width:20%;height:20%"> </h1>
+    <h1> <img src ="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/linux.svg" alt="tux the penguin logo" style="width:20%;height:20%"> </h1>
 </div>
 
 

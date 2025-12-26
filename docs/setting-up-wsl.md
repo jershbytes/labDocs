@@ -9,7 +9,7 @@ dateCreated: 2024-11-20T19:40:56.845Z
 ---
 
 <div align="center">
-    <h1> <img src ="/img/windows-linux-dev-env.png" alt="wsl logo" style="width:50%;height:50%"> </h1>
+    <h1> <img src ="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/windows-terminal.svg" alt="windows-terminal" style="width:20%;height:50%"> </h1>
 </div>
 
 ## Install WSL and its Dependencies.

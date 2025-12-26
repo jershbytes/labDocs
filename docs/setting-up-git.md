@@ -9,7 +9,7 @@ dateCreated: 2024-11-20T18:06:00.901Z
 ---
 
 <div align="center">
-    <h1> <img src ="/img/git.png" alt="git logo" style="width:20%;height:20%"> </h1>
+    <h1> <img src ="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/git.svg" alt="git logo" style="width:20%;height:20%"> </h1>
     <h3> Time to Git Gud </h3>
 </div>
 
@@ -18,35 +18,37 @@ dateCreated: 2024-11-20T18:06:00.901Z
 
 Hello Ladies and Germs, To my class on how to **`Git Gud`**. I'll be showing you how to install git on your machines and also adding ssh keys and stuff.
 
+<br>
+
 ## Installing Git
 
 Installing Git is easy I'll be showing you how to on **Windows** and **Ubuntu** here.
 
-- Windows
+
+
+###  Windows
 ```pwsh
 winget install git.git
 ```
 
-- Ubuntu
+### Ubuntu
 
 ```shell
 sudo apt install git
 ```
 <br>
 
-As I said it is dead simple. The next step is configuring.
-
 ## Configuring Git
 
 This part can be weird at times but luckily for you, I have scripted this part.
 
-- Windows
+### Windows
 ```pwsh
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/JershBytes/jershlabs-docs/refs/heads/main/Git/scripts/git-config.ps1" -OutFile "git-config.ps1"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/JershBytes/labDocsrefs/heads/main/Git/scripts/git-config.ps1" -OutFile "git-config.ps1"
 ```
-- Linux (curl is os agnostic)
+### Linux (curl is os agnostic)
 ```shell
-curl -o git-config.sh "https://raw.githubusercontent.com/JershBytes/jershlabs-docs/refs/heads/main/Git/scripts/git-config.sh"
+curl -o git-config.sh "https://raw.githubusercontent.com/JershBytes/labDocs/refs/heads/main/Git/scripts/git-config.sh"
 ```
 
 Once you have the files down for the system you're running just run the scipt by doing a

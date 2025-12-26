@@ -9,7 +9,7 @@ dateCreated: 2024-11-20T19:22:22.121Z
 ---
 
 <div align="center">
-    <h1> <img src ="/img/terraform.png" alt="terraform logo" style="width:20%;height:20%"> </h1>
+    <h1> <img src ="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/hashicorp-terraform.svg" alt="terraform logo" style="width:20%;height:50%"> </h1>
 </div>
 
 

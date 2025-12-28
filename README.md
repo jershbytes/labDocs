@@ -2,9 +2,13 @@
     jershbytes/labDocs
 </h1>
 
-<p align="center"
-    [![Documentation](https://github.com/jershbytes/labDocs/actions/workflows/docs.yml/badge.svg)](https://github.com/jershbytes/labDocs/actions/workflows/docs.yml)
+<p align="center">
+  <a href="https://github.com/jershbytes/labDocs/actions/workflows/docs.yml">
+    <img src="https://github.com/jershbytes/labDocs/actions/workflows/docs.yml/badge.svg" alt="Documentation">
+  </a>
 </p>
+
+
 
 
 ## How to setup
@@ -17,7 +21,7 @@ git clone https://github.com/jershbytes/labDocs.git
 cd labDocs
 
 # Initialize the project
-ub sync
+uv sync
 
 # Start the zensical server
 zensical serve

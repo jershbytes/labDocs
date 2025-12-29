@@ -23,6 +23,9 @@ cd labDocs
 # Initialize the project
 uv sync
 
+# Source the venv
+source .venv/bin/activate
+
 # Start the zensical server
 zensical serve
 ```
